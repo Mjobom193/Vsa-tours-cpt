@@ -3,7 +3,7 @@ home__data-subtitle
 Discover your place
 
 home__data-title
-Explore The <br> Best <b>Beautiful <br> Cape Town</b>
+Explore The <b>Beautiful <br> Cape Town</b>
 
 home__social
 https://www.facebook.com/
@@ -31,7 +31,7 @@ six tours available
 
 * EXPERIENCE
 section__title
-ith Our Experience <br> We Will Serve You
+Our Experience <br> We Will Serve You
 
 experience__description
 Year <br> Experience
