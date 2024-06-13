@@ -3,7 +3,7 @@ home__data-subtitle
 Discover your place
 
 home__data-title
-Explore The <br> Best <b>Beautiful <br> Beaches</b>
+Explore The <br> Best <b>Beautiful <br> Cape Town</b>
 
 home__social
 https://www.facebook.com/
@@ -16,17 +16,17 @@ home__info-title
 
 * ABOUT
 section__title
-More Information <br> About The Best Beaches
+More Information <br> About Cape Town Tours
 
 about__description
-You can find the most beautiful and pleasant places at the best prices with special discounts, you choose the place we will guide you all the way to wait, get your place now.
+Welcome to Variety Cape Town tours. We take you through the beautiful scenaries with the seasonal and evergreen cape floral kingdom which the richest in the world, our historical buidings with their architecture will keep you fascinated, please help us to save time should we ta you to our beaches. Our meditaranien weather condition will keep you at home as you gaze at our palm trees and wonders of the Cape Doctor.
 
 * DISCOVER
 section__title
 Discover the most <br> attractive places
 
 discover__description
-24 tours available
+six tours available
 
 
 * EXPERIENCE
@@ -62,10 +62,8 @@ footer__description
 Travel you choose the <br> destination, we offer you the <br> experience.
 
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
-https://www.youtube.com/
+https://www.facebook.com/mziwamadoda mjobo
+https://www.instagram.com/mziwamadoda mjobo
 
 
 footer__copy
